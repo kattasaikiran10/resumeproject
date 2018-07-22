@@ -1,0 +1,55 @@
+.parent{
+  display:flex;
+  width:100%;
+  border:3PX SOLID LIME;
+
+}
+.LEFT{
+  BORDER : 3PX solid black;
+  width:30%;
+  padding:2%;
+  margin:2%;
+}
+.right{
+border:2px solid maroon;
+width:70%;
+padding:2%;
+margin:2%;
+
+}
+img{
+  border-radius:50%;
+  border:1px solid red;
+
+}
+hr{
+  background-color:red;
+}
+#co{
+  color:blue;
+
+}
+#para,in{
+  font-size:20px;
+}
+#co{
+  color:blue;
+}
+#para{
+  font-size: 20px;
+  color:;
+}
+li{
+  color:blueviolet;
+  font-size: 20px;
+}
+#in{
+  color:coral;
+}
+#ssc{
+  color:
+}
+#ach{
+  color:darkcyan;
+  font-size:20px;
+}

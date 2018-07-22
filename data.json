@@ -1,0 +1,49 @@
+{
+  "details":{
+    "image":"sa.jpg",
+    "name":"Sai kiran",
+    "phoneno":"+91-9666421477",
+    "email":"saikirankatta10@gmail.com",
+    "Address":"SRKR Engineering College,BHIMAVARAM"
+  },
+
+  "career":{
+     "info":"Career Objectives",
+     "des":"To build a website"
+  },
+  "education":[{
+    "degree":"B.Tech",
+    "institute":"SRKR Engineering College",
+    "date":["2016-2020","55%"]
+
+  },
+  {
+    "degree":"Intermediate",
+    "institute":"sri chaitanya jr College",
+    "date":["2014-16","85%"]
+  },
+  {
+    "degree":"SSC",
+    "institute":"sri chaitanya techno School",
+    "date":["2002-14","67%"]
+  }],
+  "keyskills":[
+    {
+      "title":"Programming languages",
+      "info":["C,C++,JAVA,PYTHON,RUBY"]
+    },
+    {
+      "title":"Operating Systems",
+      "info":["Windows,LINUX,MAC,UBUNTU,DOS"]
+    },
+    {
+      "title":"Databases:",
+      "info":["oracle,sql,mysql"]
+    }
+  ],
+  "achievements":[
+    {"achieve":"Winner of Young World Quiz,Winner of Zonal Level Quizes"},
+    {"achieve":"Cambridge Business English Certificate"},
+    {"achieve":"CISCO CyberSecurity Certificate"}
+  ]
+}
